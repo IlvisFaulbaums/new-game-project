@@ -3,8 +3,14 @@
 [node name="Node2D" type="Node2D"]
 
 [node name="RichTextLabel" type="RichTextLabel" parent="."]
-margin_left = 136.0
-margin_top = 83.0
-margin_right = 382.0
-margin_bottom = 171.0
+margin_left = 41.0
+margin_top = 62.0
+margin_right = 287.0
+margin_bottom = 150.0
 text = "text is here"
+
+[node name="Button" type="Button" parent="."]
+margin_left = 123.0
+margin_top = 249.0
+margin_right = 239.0
+margin_bottom = 286.0
